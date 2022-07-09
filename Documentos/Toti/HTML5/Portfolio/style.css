@@ -1,0 +1,130 @@
+* body {
+        font-family: 'Source Code Pro', monospace;
+        font-family: 'Staatliches', cursive;
+}
+
+.container {
+        width: 100%;
+        height: 90px;
+        background-color: rgb(190, 174, 215);
+        border: 1px solid black;
+        position: relative;
+}
+
+.barra__titulo {
+
+        font-size: 70px;
+        margin-top: 0%;
+        margin-left: 10px;
+        font-weight: 600;
+        display: flex;
+        justify-content: center;
+
+}
+
+.cabeza {
+        margin-top: auto;
+        width: 100%;
+        height: 70px;
+        background-color: bisque;
+        border: 1px solid black;
+        display: flex;
+        justify-content: space-evenly;
+        padding: 20px;
+        box-sizing: border-box;
+        font-size: 20px;
+        margin-bottom: 0px;
+
+}
+
+.container__2 {
+
+        width: 100%;
+        height: 150px;
+        background-color: rgb(183, 199, 157);
+        border: 1px solid silver;
+        position: relative;
+        margin-top: 0px;
+        margin-bottom: 30px;
+        font-size: 90px;
+        letter-spacing: 5px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.828);
+        border: 10px;
+        text-align: center;
+        box-sizing: border-box;
+        position: relative;
+}
+
+
+
+
+#container_3 {
+
+
+        height: 125px;
+        width: 600px;
+        border: 1px solid rgb(68, 68, 101);
+        background-color: rgb(130, 108, 108);
+        display: flex;
+        text-align: end;
+        margin-top: 37px;
+        box-shadow: 0 4px 12px rgba(0, 0, 0, 0.828);
+        position: relative;
+
+}
+
+#texto2 {
+
+        font-size: 25px;
+        text-align: justify;
+        padding: 10px;
+        font-family: "EB Garamond", serif;
+        font-weight: 800;
+        margin-bottom: 10px;
+
+}
+
+.container_4 {
+
+        height: 450px;
+        width: 600px;
+        background-color: rgb(130, 108, 108);
+        border: rgb(90, 75, 68) 1px solid;
+}
+
+.informacion_1 {
+
+        font-size: 30px;
+        line-height: 40px;
+
+}
+
+.sobremim {
+        font-size: 60px;
+        text-align: center;
+        margin-top: 30px;
+
+}
+
+
+#listaderedes {
+
+        font-size: 10px;
+        justify-content: center;
+        text-align: center;
+        height: 450px;
+        width: 600px;
+        background-color: rgb(130, 108, 108);
+
+
+        }
+
+
+#redfacebook, #redig, #reyoutube {
+
+
+        font: size 10px;
+
+
+
+}
